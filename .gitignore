@@ -1,0 +1,5 @@
+*.lua
+*.sh
+instructions.md
+*_loader.lua
+static_loader.lua
